@@ -1,6 +1,8 @@
 # Collaborative_Blog_Version_Control_Management-System
 
-Note: I'm still fixing bugs after trying to upgarde the project. 
+Note: I'm still fixing bugs after trying to upgarde the project.
+
+
 The Collaborative Blog Version Control System is a Spring Boot-based web application that provides a platform for collaborative blogging with version control.
 
 ## Table of Contents
